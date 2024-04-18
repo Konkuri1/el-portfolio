@@ -9,7 +9,7 @@ const AboutMe = () => {
         </div>
         <div className=" info flex-grow ml-5">
           <p>
-            Hello! I am Elvis, an adept Junior Web developer with a healthy blend of transferrable and technical skillsets within the Tech space. Aside my persistence, I am adaptable an, this enables me to thrive in teams and multi-cural settings. My experience include JavaScript, React, HTML5, Express, Mongoose, Tailwind CSS, Material UI. I look forward to leveraging my knowledge and skills in developing scalable and robust solutions for the greater good. 
+            Hello! I am Elvis, an adept Junior Web developer with a healthy blend of transferrable and technical skillsets within the Tech space. Aside my persistence, I am adaptable and this enables me to thrive in teams and multi-cural settings. My experience include JavaScript, React, HTML5, Express, Mongoose, Tailwind CSS, Material UI. I look forward to leveraging my knowledge and skills in developing scalable and robust solutions for the greater good. 
           </p>
         </div>
       </div>
